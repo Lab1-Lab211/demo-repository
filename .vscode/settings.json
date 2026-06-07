@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "out",
+    "java.debug.settings.vmArgs": "-Dfile.encoding=UTF-8",
+    "java.debug.settings.console": "internalConsole"
+}
